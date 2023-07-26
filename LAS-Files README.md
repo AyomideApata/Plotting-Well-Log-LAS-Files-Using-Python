@@ -1,5 +1,5 @@
 # Plotting-Well-Log-With LAS-CSV Files-Using-Python
-Plotting Well Log Using Python
+Plotting and Calculating Petrophysical Curves With LAS Files Using Python
 Log ASCII Standard (LAS) files is an Oil & Gas (Energy) industry formatted file use for storing and transferring well log data.
 This LAS file has data contained which is used to analyze and understand the subsurface, as well as identify potential hydrocarbon reserves.
 
