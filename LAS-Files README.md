@@ -31,20 +31,3 @@ Track 5
 •	Coal flag curve 
 •	Values should be 0 or 1 (i.e., step line curve) 
 •	Coal is considered anything with a bulk density less than or equal to 2.4 g/cc bulk density.
-
-
-
-.
-.
-.
-
-
-
-Plotting Well Log Using Comma-Separated Values (CSV) files in plotting well log data. 
-
-Importing the Libraries The first step using the libraries: pandas, numpy and matplotlib. 
-Will be used to load and store our data. whereas matplotlib will be used in visualizing the contents of the wells log data.
-
-Files was gotten from:
-Equinor Volve Dataset
-15_9-19.csv Equinor Volve Dataset https://www.equinor.com/energy/volve-data-sharing
